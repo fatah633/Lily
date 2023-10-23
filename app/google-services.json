@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950600043819",
+    "project_id": "logapp-f5997",
+    "storage_bucket": "logapp-f5997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950600043819:android:0dd01a0630a173aafc496e",
+        "android_client_info": {
+          "package_name": "com.example.muhammadfatahalkhadami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYpPPAKFy51VdeYoaE0hWCbT0GIwiWpZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
